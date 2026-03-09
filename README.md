@@ -1,2 +1,2 @@
-# John-Jebison-J
+# Smart Contact Manager
 Smart Contact Manager
